@@ -1,4 +1,4 @@
-# Products for Africans
+# Digital Products for Africans
 
 
 |Product Name                |Country of Origin           |Country of Users            |Region of Users|Industry               |Website/URL                                                                                                                                                                                                                                                                                                                                                  |
